@@ -1,5 +1,5 @@
 # Library Management System
-*Collaborative project developed with Johairiya Goling.*
+*Collaborative Academic Project  with Johairiya Goling | Completed during my 2nd year 2nd sem*
 
 This is a desktop-based application built using Python. It streamlines library operations by managing book inventories, tracking borrowing histories, and organizing student or member records through a graphical user interface.
 
